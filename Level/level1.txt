@@ -1,0 +1,10 @@
+q                                  q
+q                              a   q
+q                           aaaa   q
+q                              a   q
+q                              a   q
+q                  aaaaaaa     aaaaq
+q                aa                q
+qaaaaaaaaaaaaa                     q
+qaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
